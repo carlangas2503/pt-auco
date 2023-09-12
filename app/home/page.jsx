@@ -1,8 +1,9 @@
+import Results from "@/components/Results";
 
 export default function HomePage(){
     return(
         <div>
-            este es el home
+            <Results/>
         </div>
     )
 } 
